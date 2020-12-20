@@ -1,6 +1,6 @@
 {
-  "short_name": "OG Queue",
-  "name": "Cal Badminton Open Gym Queue App",
+  "short_name": "Cal Bad Queue",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
